@@ -1,0 +1,1 @@
+Simulated scattering processes in Terrestrial Gamma Ray Flashes (TGFs) using Monte Carlo methods. Our project primarily focused on calculating the differential cross section for the different scattering processes in TGFs, and then writing Monte Carlo simulations in Python to simulate the average total cross section using varying scattering angles.
